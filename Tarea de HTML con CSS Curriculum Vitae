@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang = "es">
+    <head>
+       <title>Curriculum vitae</title>
+        <link rel="stylesheet" href="css/bootstrap.css">
+    </head>
+    <body class="bg-dark text-white">
+        <script src="js/bootstrap.js"></script>
+       
+<!--<h1>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Curriculum vitae&nbsp;</h1>-->
+     <div class="container-fluid text-center py-5 bg-primary" >
+        <h1 class="display-4">Curriculum Vitae</h1>
+     </div>
+     <div >
+        <h2 class="container text-truncate">Nicolas David Pedraza</h2>
+     </div>   
+    <div class="container-fluid text-break">
+        <p >
+            <h3><b>Informacion Personal</b></h3>
+        <h4>Direccion: Buchardo 800</h4>
+        <h4>Provincia: Cordoba&nbsp;&nbsp;&nbsp; Localidad: Capital&nbsp;&nbsp;&nbsp;&nbsp; Codigo Postal: 5000</h4>
+        <h4>Telefono: +549351460148&nbsp;&nbsp;&nbsp;&nbsp; Email: <a href="mailto:nicolasdpedraza@gmail.com">nicolasdpedraza@gmail.com</a></h4>
+        </p>
+    </div>
+    <div class="container-fluid text-break">
+   <h3><b>Resumen Profecional</b></h3> 
+<p>
+<h4>Programador analítico que posee un amplio conocimiento de la programación [Tipo de programación] .<br> Domina rápidamente los nuevos paquetes de software y las tecnologías de hardware.<br> Desarrollador de software con aptitudes para el liderazgo, la comunicación y las presentaciones técnicas.<br> Experimentado en el ciclo de vida completo del proyecto, desde el diseño a la implementación y, finalmente, a la integración.</h4>
+</p>
+    </div>
+<div class="container-fluid text-break">
+<h3><b>Fromación</b></h3>
+<p>
+<h4>Cursando:Tecnico superior en programacion</h4>
+<h4>Universidad: Unversidad Tecnolocia Nacional&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Direccion: Maestro Marcelo Lopez, Esq. Cruz Roja</h4>
+</p>
+</div> 
+<div class="container-fluid text-break">
+    <h3><b>Aptitudes</b></h3>
+    <ul>
+    <li>Conocimiento avanzado de C#</li>
+    <li>Java</li>
+    <li>Gestion de datos</li>
+    <li>Innovador</li>
+    <li>Resolucion de problemas y depuracion</li>
+    <li>Tecnologia empresariales</li>
+    <li>Windows y Linux</li>
+    </ul>
+    </p>
+</div>
+<div class="container-fluid text-break">
+<p>
+    &nbsp;<h3>Historial laboral</h3>
+<h4>Febrero 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Empresa:&nbsp;&nbsp; Autoralia</h4>
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hasta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Crear programas y base de datos para las empresas medianas</h4>
+<h4>Diciembre 2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4>
+</p>
+</div>
+    </body>
+</html>
